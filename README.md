@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mel</h1>
-- 📫 How to reach me **melanie.olivier13@gmail.com**
+📫 How to reach me **melanie.olivier13@gmail.com**
 
-- ⚡ Fun fact **Please don't call me Melanie, but rather: Mel, Melou, Mela, Moli, be creative ...**
+⚡ Fun fact **Please don't call me Melanie, but rather: Mel, Melou, Mela, Moli, be creative ...**
 
 
 <h3 align="left">Languages and Tools:</h3>
